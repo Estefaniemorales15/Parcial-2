@@ -1,4 +1,4 @@
-Sample Number;Period [s];Velocity [cm/s];Temperature [ºC]
+Sample Number;Period [s];Velocity [cm/s];Temperature [C]
 50;3,3860521;18,0106735;26,23
 49;3,3870311;18,0281925;26,23
 48;3,3862205;18,024807;26,22
